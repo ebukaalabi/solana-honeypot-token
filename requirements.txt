@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.22.1
+solana==0.32.0
+solders==0.21.0
+requests
